@@ -1,0 +1,2 @@
+//dependencies
+{ "presets": ["@babel/preset-env"] }
